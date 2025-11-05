@@ -1,4 +1,4 @@
-# Private Storage dApp (Noir + Aztec)
+ns# Private Storage dApp (Noir + Aztec)
 
 Пример простейшего приватного контракта на **Noir** и скрипта на **Aztec.js**.
 
